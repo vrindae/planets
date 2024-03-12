@@ -1,3 +1,5 @@
-enter some nonsense
+enter some nonsense.
+
+Hello from the software carpentry March 2024
 
 
